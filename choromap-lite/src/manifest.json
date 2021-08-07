@@ -15,9 +15,9 @@
     "iconUrl": "https://storage.googleapis.com/choromap-lite/choropleth.png",
     "description": "Choropleth mapping for Google Data Studio written in D3 (lite).",
     "resource": {
-      "js": "gs://choromap-lite/choromap.js",
-      "config": "gs://choromap-lite/choromap.json",
-      "css": "gs://choromap-lite/choromap.css"
+      "js": "gs://choromap-lite-leo/src/choromap.js",
+      "config": "gs://choromap-lite-leo/src/choromap.json",
+      "css": "gs://choromap-lite-leo/src/choromap.css"
     }
   }]
 }
